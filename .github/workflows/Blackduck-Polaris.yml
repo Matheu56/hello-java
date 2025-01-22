@@ -25,9 +25,9 @@ jobs:
           polaris_server_url: ${{ secrets.POLARIS_SERVER_URL }}
           polaris_access_token: ${{ secrets.POLARIS_ACCESS_TOKEN }}
           polaris_assessment_types: "SCA,SAST"
-          polaris_application_name: "JWtest"
-          polaris_project_name: "hello-java"
-          polaris_branch_name: "main41"
+          polaris_application_name: "PARS 2"
+          polaris_project_name: "Hello-Java"
+          polaris_branch_name: "main"
           
          
           ### PULL REQUEST COMMENTS: Uncomment below to enable
